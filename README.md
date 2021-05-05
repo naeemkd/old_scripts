@@ -4,7 +4,7 @@ This repository contains all of my scripts. Most of them are shell scripts writt
 
 ## OVERVIEW
 
-NOTE: A lot of the scripts (most of the ones in misc) won't always be up to date, as I use and change them quite frequently.
+NOTE: A lot of the scripts (most of the ones in misc) won't always be up to date, as I use and change them quite frequently. The scripts that aren't in misc are the ones that people ask me about a lot.
 
 #### autoclicker.sh
 
