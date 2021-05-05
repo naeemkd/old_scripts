@@ -2,13 +2,10 @@
 
 This repository contains all of my scripts. Most of them are shell scripts written in POSIX sh.
 
-## TO-DO
-* Move ~/.scripts folder from dotfiles repo to here
-
 ## OVERVIEW
 
 #### .scripts folder
-These are scripts that I use regularly. They used to be on my dotfiles repository (which is private), but I moved then to this one.
+These are scripts that I use regularly. They used to be on my dotfiles repository (which is private), but I moved them to this one.
 
 They won't always be up to date, as I change them quite frequently.
 
