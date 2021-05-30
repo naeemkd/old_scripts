@@ -12,5 +12,5 @@ else
     clear
     printf "\e[0;0mWell done\n\n"
     notify-send "Breaking news!" "Someone called $(getent passwd ${USER} | cut -d: -f5 | cut -d, -f1) has stopped their computer from exploding\!" -i dialog-information
-    exit
+    exit $?
 fi
