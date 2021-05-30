@@ -3,9 +3,7 @@
 sleep 0.5
 clear
 sleep 1.25
-printf "\n\n\n\e[0;31mWARNING: Bad things may happen if you run this. \e[1;31mI AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOU, YOUR COMPUTER, OR ANYTHING ELSE. Press Ctrl+C to cancel.\n"
-
-printf "\n\n\n"
+printf "\n\n\n\e[0;31mWARNING: Bad things may happen if you run this. \e[1;31mI AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOU, YOUR COMPUTER, OR ANYTHING ELSE. Press Ctrl+C to cancel.\n\n\n\n"
 sleep 3
 
 if zenity --question; then
