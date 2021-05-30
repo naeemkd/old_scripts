@@ -14,6 +14,10 @@ This is a simple autoclicker. It uses `xdotool` and `zenity`.
 
 This is a "virus".
 
+### err_but_better.sh
+
+When I wrote ``err.sh``, I was not very good at making shell scripts. A few months later, I rewrote it to make it better in general.
+
 #### mahir.sh
 
 best script in world 12345 amazing
